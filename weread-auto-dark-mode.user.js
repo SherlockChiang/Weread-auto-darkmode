@@ -6,8 +6,8 @@
 // @author       Uranium92
 // @match        *://weread.qq.com/*
 // @icon         https://weread.qq.com/favicon.ico
-// @updateURL    https://https://raw.githubusercontent.com/SherlockChiang/Weread-auto-darkmode/main/weread-auto-dark-mode.user.js
-// @downloadURL  https://https://raw.githubusercontent.com/SherlockChiang/Weread-auto-darkmode/main/weread-auto-dark-mode.user.js
+// @updateURL    https://raw.githubusercontent.com/SherlockChiang/Weread-auto-darkmode/main/weread-auto-dark-mode.user.js
+// @downloadURL  https://raw.githubusercontent.com/SherlockChiang/Weread-auto-darkmode/main/weread-auto-dark-mode.user.js
 // @grant        none
 // ==/UserScript==
 
