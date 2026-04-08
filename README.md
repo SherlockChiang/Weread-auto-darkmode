@@ -16,7 +16,7 @@
 ### 第二步：一键安装脚本
 点击下方链接，Tampermonkey 会自动弹出安装界面：
 
-**[点击此处安装脚本](https://raw.githubusercontent.com/<你的GitHub用户名>/<你的仓库名>/main/weread-auto-dark-mode.user.js)**
+**[点击此处安装脚本](https://raw.githubusercontent.com/SherlockChiang/Weread-auto-darkmode/main/weread-auto-dark-mode.user.js)**
 
 ## 实现方式
 
